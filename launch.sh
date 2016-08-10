@@ -49,7 +49,7 @@ else
               \033[01;30m $ver \033[0m"
 
   while true; do
-	nohup python2.7 t.py
+	nohup python2.7 bot.py
 	sleep 0.5
   done
 fi
